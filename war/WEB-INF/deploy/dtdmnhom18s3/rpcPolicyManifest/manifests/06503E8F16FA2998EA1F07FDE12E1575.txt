@@ -1,0 +1,2 @@
+serviceClass: gae.example.helloworld.client.GreetingService
+path: 3C4EB7A2CCAD816E9F9AD12C6100BCFE.gwt.rpc

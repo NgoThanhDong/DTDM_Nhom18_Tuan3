@@ -1,0 +1,3 @@
+# Module dtdmnhom18s3
+# RPC service class, partial path of RPC policy file
+gae.example.helloworld.client.GreetingService, 3C4EB7A2CCAD816E9F9AD12C6100BCFE.gwt.rpc
